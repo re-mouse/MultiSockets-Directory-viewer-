@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ag+3JIhbBYrNIDwmIkag9DmZrjxz7lKUJqtfDKe1/tDqwSXA6uHOqa3yY4lM3Kb0r0nBDo+x8uwU+NbA7eLfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pancr\\source\\repos\\ClientV\\ClientV\\SystemScreen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pancr\\.nuget\\packages\\costura.fody\\4.1.0\\costura.fody.4.1.0.nupkg.sha512",
+    "C:\\Users\\pancr\\.nuget\\packages\\ilmerge\\3.0.29\\ilmerge.3.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

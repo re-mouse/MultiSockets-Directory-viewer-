@@ -1,0 +1,13 @@
+C:\Users\pancr\source\repos\ClientV\ClientV\bin\Debug\netcoreapp3.1\ClientV.exe
+C:\Users\pancr\source\repos\ClientV\ClientV\bin\Debug\netcoreapp3.1\ClientV.deps.json
+C:\Users\pancr\source\repos\ClientV\ClientV\bin\Debug\netcoreapp3.1\ClientV.runtimeconfig.json
+C:\Users\pancr\source\repos\ClientV\ClientV\bin\Debug\netcoreapp3.1\ClientV.runtimeconfig.dev.json
+C:\Users\pancr\source\repos\ClientV\ClientV\bin\Debug\netcoreapp3.1\ClientV.dll
+C:\Users\pancr\source\repos\ClientV\ClientV\bin\Debug\netcoreapp3.1\ClientV.pdb
+C:\Users\pancr\source\repos\ClientV\ClientV\obj\Debug\netcoreapp3.1\ClientV.AssemblyInfoInputs.cache
+C:\Users\pancr\source\repos\ClientV\ClientV\obj\Debug\netcoreapp3.1\ClientV.AssemblyInfo.cs
+C:\Users\pancr\source\repos\ClientV\ClientV\obj\Debug\netcoreapp3.1\ClientV.dll
+C:\Users\pancr\source\repos\ClientV\ClientV\obj\Debug\netcoreapp3.1\ClientV.pdb
+C:\Users\pancr\source\repos\ClientV\ClientV\obj\Debug\netcoreapp3.1\ClientV.genruntimeconfig.cache
+C:\Users\pancr\source\repos\ClientV\ClientV\obj\Debug\netcoreapp3.1\ClientV.csproj.CoreCompileInputs.cache
+C:\Users\pancr\source\repos\ClientV\ClientV\obj\Debug\netcoreapp3.1\ClientV.csprojAssemblyReference.cache

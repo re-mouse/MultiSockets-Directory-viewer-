@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SystemScreen/1.0.0": {
+        "dependencies": {
+          "Costura.Fody": "4.1.0",
+          "ILMerge": "3.0.29"
+        },
+        "runtime": {
+          "SystemScreen.dll": {}
+        }
+      },
+      "Costura.Fody/4.1.0": {},
+      "ILMerge/3.0.29": {}
+    }
+  },
+  "libraries": {
+    "SystemScreen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Costura.Fody/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MkW5aqhqNvuP6MiaaD5Yx8efXv+5ucsumRx+Nsn5b+PA4RnaxJLtXhGkm1N+Hi7sjkSlL8kl1klSS/7v2DxZHw==",
+      "path": "costura.fody/4.1.0",
+      "hashPath": "costura.fody.4.1.0.nupkg.sha512"
+    },
+    "ILMerge/3.0.29": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+LXIFY4L84Ve3cVgmd8tOEwFCppJynP0gY2cTmyj/8XjFaQPqaiN6jdYOrIJwtzYw3ayf69IY5vor6XXRxoigA==",
+      "path": "ilmerge/3.0.29",
+      "hashPath": "ilmerge.3.0.29.nupkg.sha512"
+    }
+  }
+}
