@@ -11,7 +11,7 @@ namespace Client
 	class Client
 	{
 		private static Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-		private static string ip = "178.204.54.187";
+		private static string ip = "127.0.0.1";
 		private static string DEFAULT_PATH = "C:\\kavo";
 		private static int port = 2000;
 		private static string command;
